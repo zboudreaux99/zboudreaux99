@@ -8,7 +8,6 @@
     <a href="https://linkedin.com/in/zach-boudreaux" target="_blank">    
         <img align="left" alt="LinkedIn" width="45px" style="padding-right:10px" src="/resources/linkedin.png">
     </a>
-
     <a>
         <img align="left" alt="Gmail" width="45px" style="padding-right:10px" src="/resources/gmail.png">
     </a>

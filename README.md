@@ -2,13 +2,10 @@
 ### A self taught Software/DevOps Engineer
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://external.ink?to=linkedin.com/in/zach-boudreaux)
-<!-- <a href="https://linkedin.com/in/zach-boudreaux" target="_blank">    
-    <img align="left" alt="LinkedIn" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a>
+[<img align="left" alt="LinkedIn" width="40px" style="padding-right:10px" src="/resources/linkedin">](https://linkedin.com/in/zach-boudreaux)
 <a href="mailto:zboudreaux99@gmail.com" target="_blank">
     <img align="left" alt="Gmail" width="40px" style="padding-right:10px" src="/resources/gmail.png">
-</a> -->
+</a>
 <br/>
 <br/>
 

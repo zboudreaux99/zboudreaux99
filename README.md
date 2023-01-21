@@ -2,7 +2,7 @@
 ### A self taught Software/DevOps Engineer
 
 ### Connect with me:
-[![LinkedIn](/resources/linkedin.png)](https://linkedin.com/in/zach-boudreaux){:target="_blank"}
+[![LinkedIn](<img src="file://resources/linkedin.jpg" alt="LinkedIn" width="40px"/>)](https://linkedin.com/in/zach-boudreaux){:target="_blank"}
 <!-- <a href="https://linkedin.com/in/zach-boudreaux" target="_blank">    
     <img align="left" alt="LinkedIn" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>

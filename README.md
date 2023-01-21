@@ -4,6 +4,8 @@
 - 📫 How to reach me **zboudreaux99@gmail.com**
 - ![Linkedin](https://i.stack.imgur.com/gVE0j.png) Find me on **[LinkedIn](https://www.linkedin.com/in/zach-boudreaux/)**
 
+[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharyrb99)](https://github.com/zacharyrb99/github-readme-stats)
+
 ### Languages and Tools
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="NodeJS" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -21,11 +23,8 @@
 <br/>
 
 ### Cloud and DevOps
-<img align="left" alt="AWS" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="AWS" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Docker" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Jenkins" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="Kubernetes" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
 <br/>
-
-
-[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharyrb99)](https://github.com/zacharyrb99/github-readme-stats)

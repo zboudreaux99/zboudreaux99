@@ -4,8 +4,6 @@
 - #### How to reach me **zboudreaux99@gmail.com**
 - #### Find me on **[LinkedIn](https://www.linkedin.com/in/zach-boudreaux/)**
 
-[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharyrb99)](https://github.com/zacharyrb99/github-readme-stats)
-
 ### Languages and Tools
 <img align="left" alt="JavaScript" width="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="NodeJS" width="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />

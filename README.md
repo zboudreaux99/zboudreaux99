@@ -1,10 +1,8 @@
-<base target="_blank">
-
 # Hi there👋, I'm Zach Boudreaux
 ### A self taught Software/DevOps Engineer
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://linkedin.com/in/zach-boudreaux)[newtab]
+[<img align="left" alt="LinkedIn" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://external.ink?to=linkedin.com/in/zach-boudreaux)
 <!-- <a href="https://linkedin.com/in/zach-boudreaux" target="_blank">    
     <img align="left" alt="LinkedIn" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>

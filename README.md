@@ -2,7 +2,7 @@
 **A self taught Software/DevOps Engineer**
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/zacharyrb99/count.svg" />
 </p>
 
 - 📫 How to reach me **zboudreaux99@gmail.com**

@@ -3,15 +3,16 @@
 
 - #### How to reach me **zboudreaux99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/zach-boudreaux" target="_blank">    
-    <img align="left" alt="LinkedIn" width="45px" style="padding-right:10px" src="/resources/linkedin.png">
-</a>
+<div style="padding-bottom:15px">
+    <h3 align="left">Connect with me:</h3>
+    <a href="https://linkedin.com/in/zach-boudreaux" target="_blank">    
+        <img align="left" alt="LinkedIn" width="45px" style="padding-right:10px" src="/resources/linkedin.png">
+    </a>
 
-<a>
-    <img align="left" alt="Gmail" width="45px" style="padding-right:10px" src="/resources/gmail.png">
-</a>
-<br/>
+    <a>
+        <img align="left" alt="Gmail" width="45px" style="padding-right:10px" src="/resources/gmail.png">
+    </a>
+</div>
 
 ### Languages and Tools
 <img align="left" alt="JavaScript" width="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

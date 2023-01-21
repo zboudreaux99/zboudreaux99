@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # Hi there👋, I'm Zach Boudreaux
 ### A self taught Software/DevOps Engineer
 

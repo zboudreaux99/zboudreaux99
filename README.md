@@ -2,14 +2,12 @@
 ### A self taught Software/DevOps Engineer
 
 - #### How to reach me **zboudreaux99@gmail.com**
-<!-- - #### Find me on **[LinkedIn](https://www.linkedin.com/in/zach-boudreaux/)** -->
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/zach-boudreaux" target="_blank">    
     <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
-<!-- <p align="left">
-<a href="https://linkedin.com/in/zach-boudreaux" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a> -->
-<!-- </p> -->
+<br/>
 
 ### Languages and Tools
 <img align="left" alt="JavaScript" width="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

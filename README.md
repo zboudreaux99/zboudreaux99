@@ -1,16 +1,14 @@
 # Hi there👋, I'm Zach Boudreaux
 ### A self taught Software/DevOps Engineer
 
-- #### How to reach me **zboudreaux99@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/zach-boudreaux" target="_blank">    
+### Connect with me:
+[![LinkedIn](/resources/linkedin.png)](https://linkedin.com/in/zach-boudreaux)
+<!-- <a href="https://linkedin.com/in/zach-boudreaux" target="_blank">    
     <img align="left" alt="LinkedIn" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
 <a href="mailto:zboudreaux99@gmail.com" target="_blank">
     <img align="left" alt="Gmail" width="40px" style="padding-right:10px" src="/resources/gmail.png">
-</a>
-
+</a> -->
 <br/>
 <br/>
 

@@ -1,5 +1,5 @@
 # Hi there👋, I'm Zach Boudreaux
-### *A self taught Software/DevOps Engineer*
+### A self taught Software/DevOps Engineer
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zacharyrb99/count.svg" />

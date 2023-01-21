@@ -1,5 +1,5 @@
 # Hi there👋, I'm Zach Boudreaux
-### A self taught Software/DevOps Engineer
+## A self taught Software/DevOps Engineer
 
 ### How to reach me **zboudreaux99@gmail.com**
 ### <img aling="left" alt="LinkedIn" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> Find me on **[LinkedIn](https://www.linkedin.com/in/zach-boudreaux/)**

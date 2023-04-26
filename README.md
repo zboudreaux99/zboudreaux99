@@ -1,5 +1,5 @@
 # Hi there👋, I'm Zach Boudreaux
-### A self taught Software/DevOps Engineer
+### Software/DevOps Engineer
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="40px" style="padding-right:10px" src="/resources/linkedin.png">](https://linkedin.com/in/zach-boudreaux)

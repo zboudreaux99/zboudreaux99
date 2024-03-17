@@ -6,8 +6,8 @@
     <img align="left" alt="Gmail" width="40px" style="padding-right:10px" src="/resources/gmail.png">
 </a>
 
-<!-- <br/>
-<br/> -->
+<br/>
+<br/>
 
 ### Skills
 <img align="left" alt="Linux" width="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />

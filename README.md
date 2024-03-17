@@ -1,6 +1,6 @@
 # Hi there👋, I'm Zach Boudreaux
 ## Software and DevOps Engineer
-### Connect with me:
+### Connect with me (live links):
 [<img align="left" alt="LinkedIn" width="40px" style="padding-right:10px" src="/resources/linkedin.png">](https://linkedin.com/in/zach-boudreaux)
 <a href="mailto:zboudreaux99@gmail.com" target="_blank">
     <img align="left" alt="Gmail" width="40px" style="padding-right:10px" src="/resources/gmail.png">

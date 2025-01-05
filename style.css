@@ -1,0 +1,29 @@
+li {
+    list-style-type: circle;
+}
+
+.info {
+    text-align: center;
+    margin: 0;
+}
+
+.header {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.cert {
+    margin: 0;
+}
+
+.title {
+    margin: 0;
+}
+
+.duration {
+    margin: 0;
+}
+
+.school {
+    margin: 0;
+}
